@@ -1,7 +1,5 @@
 ### Hi Fella! I'm Irsyad Ashari 👋
 
-<!--
-**irsyadashari/irsyadashari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,6 +9,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with finding a job
 - 💬 Ask me about iOS Development
 - 📫 How to reach me: LinkedIn : Irsyad Ashari
-- 😄 Pronouns: He/Hisf
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: He/His
+
